@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1599001948 source:c:\users\pedro\documents\c++\modificadoresdetipo\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+

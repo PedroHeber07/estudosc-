@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1600006977 source:c:\users\pedro\documents\c++\blocoinstru\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+
